@@ -94,3 +94,14 @@
     margin-top: 10px;
     font-size: 14px;
   }
+  .direction-buttons {
+    display: flex;
+    width: 60px;
+    height: 60px;
+  }
+  .left-button {
+    margin-left: 700px;
+  }
+  .right-button {
+    margin-left: 100px;
+  }
