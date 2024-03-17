@@ -55,3 +55,18 @@
     font-size: 50px;
     color: #000000;
   }
+  .image-container2 {
+    text-align: center;
+  }
+  
+  .image-box {
+    display: inline-block;
+    margin: 0 10px 20px;
+    vertical-align: top;
+  }
+  
+  .caption {
+    margin-top: 10px;
+    font-family: Arial;
+    font-size: 16px;
+  }
